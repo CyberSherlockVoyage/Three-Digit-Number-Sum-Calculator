@@ -15,7 +15,7 @@ The Three-Digit Number Sum Calculator is a simple Python program that takes a th
 - Sum Calculation: The program calculates the sum of the extracted digits.
 - Result Display: The calculated sum is displayed to the user.
 
-##This short program demonstrates:
+## This short program demonstrates:
 
 - Taking input from the user
 - String indexing
